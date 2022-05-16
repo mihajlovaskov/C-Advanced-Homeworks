@@ -1,7 +1,0 @@
-[
-  {
-    "Name": "sdfsdf",
-    "Age": 23,
-    "Color": "red"
-  }
-]
